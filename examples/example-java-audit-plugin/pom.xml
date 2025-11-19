@@ -17,7 +17,7 @@
     <dependency>
       <groupId>org.rundeck</groupId>
       <artifactId>rundeck-core</artifactId>
-      <version>5.6.1-20241014</version>
+      <version>5.14.0-20250804</version>
       <scope>provided</scope>
     </dependency>
   </dependencies>
@@ -40,7 +40,7 @@
               <Rundeck-Plugin-Version>1.2</Rundeck-Plugin-Version>
               <Rundeck-Plugin-Archive>true</Rundeck-Plugin-Archive>
               <!-- 		Here you must add any external jar needed as a list -->
-              <Rundeck-Plugin-libs></Rundeck-Plugin-libs>
+              <Rundeck-Plugin-libs/>
             </manifestEntries>
           </archive>
         </configuration>
